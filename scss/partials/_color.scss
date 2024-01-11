@@ -1,0 +1,15 @@
+$my-style-color: #7550fe;
+$my-color-button: #1acb98;
+$color-icon: #deb486;
+
+.color-icon {
+  color: $color-icon;
+}
+
+#my-style {
+  background-color: $my-style-color;
+}
+
+#my-button {
+  background-color: $my-color-button;
+}
